@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">I'm Amir 👋 Welcome</h1>
+<h3 align="center">ambitious, open-minded & kind</h3>
 
-<!--
-**amir00462/amir00462** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="left"><img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,firebase,spring,flutter,git,postman,sqlite,py,cpp,idea,github,vscode&perline=16" alt="Tech Stack" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🗣 I regulary not only code, also I'am an Android blogger with +60k followers on [Dunijet](https://www.instagram.com/dunijet)
+
+- 👨‍💻 I’m currently recording **'Team Git'** course
+
+- ⚡ I Wish success to my +2000 Students in [Dunijet Platform](https://dunijet.ir/)
+
+- 🤝 I work mainly for [MizanGostart Co](https://mizangostar.com/)
+
+- 💪🏻 I'm proud to be teacher of [KaraSystem Co](https://rkara.ir/) employees
+
+- ❤️ Ask me about **Kotlin, Android, Mobile Development**
+
+- 📫 How to reach me [Telegram Account](https://t.me/dunijet_support/)
+
