@@ -19,3 +19,10 @@
 
 - 📫 How to reach me [Telegram Account](https://t.me/dunijet_support/)
 
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amir00462&theme=default&hide_border=false" style="width: 150px; height: auto;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir00462&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="width: 150px; height: auto;">
+</div>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
