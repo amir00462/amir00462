@@ -6,13 +6,13 @@
 
 <br>
 
-- 🗣 I regulary not only code, also I'am an Android blogger with +60k followers on [Dunijet](https://www.instagram.com/dunijet)
+- 🗣 I regulary not only code, also I'am an Android blogger with +57k followers on [Dunijet](https://www.instagram.com/dunijet)
 
-- 👨‍💻 I’m currently recording **'Team Git'** course
+- 👨‍💻 I’m currently recording **'Flutter'** course
 
 - ⚡ I Wish success to my +2000 Students in [Dunijet Platform](https://dunijet.ir/)
 
-- 🤝 I work mainly for [MizanGostart Co](https://mizangostar.com/)
+- 🤝 Senior Android Developer at [BizApp Co](https://www.bizap.ir/)
 
 - 💪🏻 I'm proud to be teacher of [KaraSystem Co](https://rkara.ir/) employees
 
