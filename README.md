@@ -16,7 +16,7 @@
 
 - 💪🏻 I'm proud to be teacher of [KaraSystem Co](https://rkara.ir/) employees
 
-- ❤️ Ask me about **Kotlin, Android, Mobile Development**
+- ❤️ Ask me about **Native Development , Cross Platform Development**
 
 - 📫 How to reach me [Telegram Account](https://t.me/dunijet_support/)
 
